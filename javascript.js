@@ -1,5 +1,4 @@
-let a = 10
-let b = 7 * a
-
-console.log(b)
+const MAX = 57;
+let actual = MAX - 13;
+let percentage = actual / MAX;
 
