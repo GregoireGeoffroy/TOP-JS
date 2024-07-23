@@ -19,4 +19,8 @@ console.log(capitalize("WORLD"));
 console.log(capitalize("jAvAsCrIpT"));
 console.log(capitalize(""));
 
-
+function lastLetter(str) {
+    if (str.length === 0) return '';
+    return str.charAt(str.length - 1);
+}
+console.log(lastLetter("Classic"))
