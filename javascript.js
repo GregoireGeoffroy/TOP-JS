@@ -1,4 +1,3 @@
-const MAX = 57;
-let actual = MAX - 13;
-let percentage = actual / MAX;
-
+function add7(number) {
+    return number + 7;
+}
