@@ -1,1 +1,5 @@
-console.log((4 + 6 + 9) / 77)
+let a = 10
+let b = 7 * a
+
+console.log(b)
+
